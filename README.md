@@ -1,2 +1,2 @@
 # mini-project
-mini project description
+Mini Projects using Python basic stuffs
